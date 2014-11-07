@@ -1,0 +1,3 @@
+1-Deportista
+2-Entrenador
+3-Asistente Tecnico
